@@ -1,4 +1,11 @@
 # 19SA3072_TI19A_BENGKEL TRACKER
 Software ini dibuat bertujuan menghubungkan antara orang yang sedang terkendala motornya didaerah yang belum ia kenal
 sehigga digunakan software ini akan melacak dimana keberadaan bengkel terdekat
-metode dalam projek ini menggunkan konsep waterfall/ air terjun
+Latar Belakang kami membuat proyek ini adalah melihat Kabupaten Banyumas itu merupakan daerah yang luas dan pastinya ada daerah yang jauh dari keramain dan juga tempat wisatanya juga jauh dari pusat kota ketika kita mengalami kerusakan motor baik itu motornya bocor atau tiba tiba mesin mati dan kita tidak tahu daerah sekitar, sehingga menyelutikan kita untuk mencari bengkel terdekat dengan dibuatnya software ini maka kita dapat melacak bengkel terdekat dari lokasi kita Nama proyek yang akan kami buat bernama Bengkel Tracker. Sistem ini dibuat dengan cara mengidentifikasi elemen-elemen yang ada di jalan,memanfaatkan citra satelit atau Street View guna mengenali berbagai informasi jalan yang ada, yakni jalan raya, jalan tol, bangunan, alamat, dan bisnis di sebuah wilayah.Data peta yang Google punya kemudian diolah oleh machine learning dengan memanfaatkan Artificial Intelligence (AI).
+Sistem ini memproses data dari Citra Satelit untuk menghasilkan suatu peta yang lebih akurat dan cepat, sehingga tim Google Maps dapat memunculkan peta yang sesuai dengan kebutuhan pengguna sambil mengoptimasi sistem-sistem Maps yang lain.
+Bagi yang belum mengetahui apa itu citra, citra merupakan adalah kombinasi antara titik, garis, bidang, dan warna untuk menciptakan suatu imitasi dari suatu objek–biasanya objek fisik atau manusia. Citra bisa berwujud gambar (picture) dua dimensi, seperti lukisan, foto, dan berwujud tiga dimensi, seperti patung. Target pengguna pada sistem yang kami ciptakan adalah masyarakat purwokerto  ataupun masyrakat barlingmascakep  namun demekian sistem ini baru bisa mencakupi didaerah purwokerto itupun hanya bebebrapa daerah yang jauh dari keramaian kedepanya bisa dekembangkan lagi, yang diharapkan dengan terbentuknya software ini akan memudahkan masyrakat purwokerto jika sedang berada di daerah yang belum ia ketahui dan mengalami ban bocor atau kendaaraanya tiba tiba mati maka dengan software ini akan melacak bengkel terdekat dengan lokasi anda nantinya sistem ini menggunkan platform mobile konsepnya seperti GPS pada handphone kalia ketika kita membuka software ini nantinya akan langsung mendektesi bengkel disekitar kita jadi dengan adanya software ini kita dapat menghubungkan antara pennguna dan pemilik bengkel
+
+
+
+
+ 
