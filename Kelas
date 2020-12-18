@@ -1,0 +1,28 @@
+Kelas 
+Kelas Bengkel
+Kelas Pengguna
+Kelas Operator
+
+Objek
+- Kelas Barang 
+  Barang_001 (001, barang benda cair seperti oli mesin oli rem )
+  Barang_002 (002, barang benda padat seperti V-belt filter oli )
+
+- Kelas jasa
+  Jasa_001 (service ringan)
+  Jasa_002 (service turun mesin)
+  Jasa_003 (Pemasangan lampu)
+  Jasa_004 (Pembersihan/ detail wash)
+  
+  Atribut
+  -Kelas barang
+   idbarang(char)
+   namabarang (string)
+   Jumlah (int)
+   harga(int)
+   
+  Kelas jasa
+  Idjasa(char)
+  waktu(char)
+  
+  Metode
